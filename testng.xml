@@ -1,0 +1,7 @@
+<suite name="suite1">
+<test thread-count="5" name="java">
+    <classes>
+        <class name="Demo.Demo"/>
+    </classes>
+</test>
+        </suite>
